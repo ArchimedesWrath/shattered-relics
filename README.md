@@ -1,4 +1,4 @@
-#Leagues III Shattered Relics
+# Leagues III Shattered Relics
 
 The purpose of this guide is to outline an efficient path for the start of the leagues. I'll share my predictions for the league and outline a route you can take to maximize your points in the early game. I'll also share several paths you can take for PVM. 
 
